@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sstl-jh:war">
+    <output-path>$PROJECT_DIR$/sstl-jh/target</output-path>
+    <root id="archive" name="sstl-jh.war">
+      <element id="artifact" artifact-name="sstl-jh:war exploded" />
+    </root>
+  </artifact>
+</component>

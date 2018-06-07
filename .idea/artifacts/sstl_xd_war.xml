@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sstl-xd:war">
+    <output-path>$PROJECT_DIR$/sstl-xd/target</output-path>
+    <root id="archive" name="sstl-xd.war">
+      <element id="artifact" artifact-name="sstl-xd:war exploded" />
+    </root>
+  </artifact>
+</component>
